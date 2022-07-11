@@ -1,0 +1,3 @@
+[submodule "courseware/course/intro-to-apis-course"]
+	path = courseware/course/intro-to-apis-course
+	url = https://github.com/craigsdennis/intro-to-apis-course
