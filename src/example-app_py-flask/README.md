@@ -14,10 +14,19 @@ Copy `.env.example` to `.env` and update it with your [Twilio](https://twilio.co
 
 ### Running the application
 
+#### Linux-like
+
 * `python -m venv .venv`
 * `source ./.venv/bin/activate`
 * `pip install -r requirements.txt`
 * `FLASK_ENV=development flask run`
+
+#### Windows
+
+* `py -m venv .venv`
+* `.venv\Scripts\activate.bat`
+* `pip install -r requirements.txt`
+* `set FLASK_ENV=development && flask run && set FLASK_ENV=`
 
 #### In Development mode
 
