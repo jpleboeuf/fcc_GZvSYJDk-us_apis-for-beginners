@@ -4,3 +4,6 @@
 [submodule "courseware/code/intro-to-apis-flask"]
 	path = courseware/code/intro-to-apis-flask
 	url = https://github.com/craigsdennis/intro-to-apis-flask
+[submodule "courseware/code/intro-to-apis-node"]
+	path = courseware/code/intro-to-apis-node
+	url = https://github.com/craigsdennis/intro-to-apis-node
